@@ -1,0 +1,90 @@
+{
+  "dummy": [
+    {
+      "id": 1,
+      "title": "Shop",
+      "isOpened": false,
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "Chair"
+        },
+        {
+          "id": 2,
+          "title": "Shampoo"
+        },
+        {
+          "id": 3,
+          "title": "Soap"
+        },
+        {
+          "id": 4,
+          "title": "Toothpaste"
+        },
+        {
+          "id": 5,
+          "title": "iPhone 12 Pro Max"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bundles",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 3,
+      "title": "Best Sellers",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 4,
+      "title": "Holliday Gifr Guide",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 5,
+      "title": "The Holiday Lookbook",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 6,
+      "title": "New Arrivals",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 7,
+      "title": "Back in Stock",
+      "isOpened": false,
+      "subMenu": []
+    },
+    {
+      "id": 8,
+      "title": "The Every Edit",
+      "isOpened": false,
+      "subMenu": [
+        {
+          "id": 1,
+          "title": "PENGSOO"
+        },
+        {
+          "id": 2,
+          "title": "BABY SHARK"
+        },
+        {
+          "id": 3,
+          "title": "LUCIFER"
+        },
+        {
+          "id": 4,
+          "title": "BLACK LIST"
+        }
+      ]
+    }
+  ]
+}
